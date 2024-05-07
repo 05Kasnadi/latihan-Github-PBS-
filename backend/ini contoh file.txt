@@ -1,2 +1,1 @@
-ini contoh file Laravel
 ini upload yang ke 2
